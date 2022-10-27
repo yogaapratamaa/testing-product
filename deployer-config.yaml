@@ -1,0 +1,5 @@
+release_name: oms-v2
+chart_name: oms-v2
+component_name: frontend
+staging_kube_context: gke_sirclo-kns-non-prod_asia-southeast1-b_kns-nonprod-cluster-1
+production_kube_context: gke_sirclo-kns-prod_asia-southeast1-c_kns-prod-cluster-1
